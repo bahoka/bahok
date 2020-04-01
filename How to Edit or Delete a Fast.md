@@ -1,0 +1,25 @@
+This article will show you how to introduce the following changes to a fast you previously logged in Simple:
+
+- edit your personal comment on the fast;
+- edit the mood you chose to associate with how you felt when that fast ended;
+- permanently delete the selected fast.
+
+If you would like to edit the time at which a specific fast started or ended, please consult the 'How to Edit or Delete a Meal' article instead, like every fast in Simple starts and ends with logging a meal.
+
+## How to Edit the Mood and/or Comment You Left for a Fast
+
+<p align="center"> 1. Please begin by accessing the Journal section of the app. Essentially, this section is your wellbeing log, and as such it contains absolutely every activity you're tracking with Simple – including all previously logged fasts;<br/>
+  <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/Journal.png">
+</p>
+
+<p align="center"> 2. Next, look up the fast that you would like to edit in the Journal and tap the 'Edit' icon next to it, it looks kinda like this;<br/>
+  <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/fastedit.png">
+</p>
+
+*PLEASE NOTE: Deleting a fast is permanent! Simple will not be able to restore a fast that you delete from your Journal. We kindly ask you to be extra careful with this option.*
+
+<p align="center">4. If you choose to edit the fast, simply introduce then save all changes you would like to make.<br/>
+  <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/editingf.jpg">
+</p>
+
+And that's it, simple as that! Your edits will be applied immediately.
