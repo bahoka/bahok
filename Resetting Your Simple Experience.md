@@ -2,17 +2,18 @@ In this article, we'll show you how to reset your Simple experience and restart 
 # 1. Reset Your Simple Account
 In order to reset your Simple experience:
 
-- First, access the 'Profile' screen in the app:
-<p align="center">
+<p align="center">1. First, access the 'Profile' screen in the app:
+<br/>
   <img width="100" src="https://i.imgur.com/1ECSmLE.png">
 </p>  
 
-- Next, tap the 'Edit' button:  
-<p align="center">
+<p align="center"> 2. Next, tap the 'Edit' button:  
+<br/>
   <img width="100" src="https://i.imgur.com/KMPXcED.png">
 </p>  
 
-- Finally, use the 'Reset Account' link at the bottom of the screen. This action will permanently reset your Simple account.  
+<p align="center"> 3. Finally, use the 'Reset Account' link at the bottom of the screen. This action will permanently reset your Simple account.  
+<br/>
 <p align="center">
   <img width="100" src="https://i.imgur.com/JWee6kG.png">
 </p>  
