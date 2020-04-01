@@ -4,6 +4,7 @@ As evident from the name, this quick tutorial will show you how to log your very
 <br/>
   <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/pluss.png">
 </p>
+
 <p align="center">2. Next, tap the 'Log a Meal' icon at the top of your screen:
   <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/lmeal.png">
 </p>
