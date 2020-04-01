@@ -21,7 +21,8 @@ In Simple, Fasting Protocols are split into two categories:
 1.Intra-day protocols. These protocols are named after the number of hours (within the limits of one day) allocated for a fasting period and an 'eating window' respectively.
 
 <p align="center"> For instance: the 16:8 intra-day protocol means that:
-<img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/protocol.jpg">
+  <br/>
+    <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/protocol.jpg">
 </p>
 
  * your eating window for the day will last 6 hours;
@@ -55,6 +56,7 @@ With Simple, you can always change your fasting plan, protocol or schedule to a 
 <p align="center"> 1.Tap the 'Personal Program' option at the top of your fasting tracker's main screen: <br/>
   <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/personal.png">
 </p>
+
 
 <p align="center"> 2.Next, tap the 'Change fasting protocol’ option to change your fasting protocol or the 'Edit plan' option to change your fasting schedule: <br/>
   <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/changess.png"><br/>
