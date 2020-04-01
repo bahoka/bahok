@@ -54,11 +54,11 @@ Tip: Don't worry if you accidentally end your fast before you meant to. Remember
 ## 2. Some Things to Note Here
 Before this class is over, we'd like to give you a few extra tips to help you get started:
 ### 2.1 Fasting for Less than 12 Hours
-*Please note: If your current fasting period has lasted less than 12 hours, you will not be able to properly log it as 'finished' in the app. You will, however, be able to cancel it whenever you choose to.*
+*PLEASE NOTE: If your current fasting period has lasted less than 12 hours, you will not be able to properly log it as 'finished' in the app. You will, however, be able to cancel it whenever you choose to.*
   
 In accordance with Simple's Intermittent Fasting methodology, fasting periods that last less than 12 hours are not considered to be proper fasts. Thus, such periods are not logged as fasts within the app, nor do they attribute to your in-app statistics.
 ### 2.2 Fasting for More than 36 Hours 
-*Please note: If you've been fasting for over 36 hours, the app will ask you to confirm that this was indeed intentional. This is done to avoid situations where you accidentally forget to log the end of your fast in good time and wouldn't like inaccurate information to affect your overall statistics.*
+*PLEASE NOTE: If you've been fasting for over 36 hours, the app will ask you to confirm that this was indeed intentional. This is done to avoid situations where you accidentally forget to log the end of your fast in good time and wouldn't like inaccurate information to affect your overall statistics.*
 
 If you really did fast for more than 36 hours, you can confirm this in the app, and the said fast will be added to your statistics. Otherwise, Simple will mark the fast as inaccurate and will not add it to your overall stats.
 ### 2.3 Meals Will Interrupt Fasts
