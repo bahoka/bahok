@@ -15,6 +15,7 @@ As evident from the name, this quick tutorial will show you how to log your very
 <br/>
   <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/type.png"> <br/>
 *Tip: This feature allows you to retroactive log any meal that you had for the past three days (but not more) and forgot to add in a good time.*
+
 </p>
 
 <p align="center"> 4. Finally, at this point, you can either <br/>
