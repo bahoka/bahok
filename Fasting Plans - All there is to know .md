@@ -18,15 +18,14 @@ In Simple, a Fasting Plan is a complex methodology that consists of three main a
 
 In Simple, Fasting Protocols are split into two categories:
 
-1.Intra-day protocols. These protocols are named after the number of hours (within the limits of one day) allocated for a fasting period and an 'eating window' respectively.
-
-<p align="center"> For instance: the 16:8 intra-day protocol means that:
-  <br/>
-    <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/protocol.jpg">
-</p>
+1.Intra-day protocols. These protocols are named after the number of hours (within the limits of one day) allocated for a fasting period and an 'eating window' respectively. For instance: the 16:8 intra-day protocol means that:
 
  * your eating window for the day will last 6 hours;
  * your fasting period for the day will last 8 hours.
+<p align="center">
+  <br/>
+   <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/protocol.jpg">
+</p>
 
 2.Daily protocols. These protocols may vary in name depending on which days you choose to reserver for eating and which – for fasting.
 
