@@ -4,7 +4,7 @@ Let's imagine you began your fast at 5 pm last night, ended it at 9 am this morn
 
 In this case, we're not talking about that much time lost, and what you probably want to do is end your latest fast properly in Simple. This can be done with no trouble at all:
 
-<p align="center"> 1. Use the 'End this Fast' option in the app as you normally would;
+<p align="center"> 1. Use the 'End this Fast' option in the app as you normally would; <br/>
   <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/End+this+.png">
 </p>  
 
