@@ -1,0 +1,18 @@
+First of all – it's okay, such things happen sometimes! This article will help you get everything back to normal in case you forgot to properly end your fast in the app. Even if it's been a long time. Even if we're talking a REALLY long time here – it’s all cool with Simple.
+## 1. In Case You Haven't Missed Too Much Time (<36 Hours)
+Let's imagine you began your fast at 5 pm last night, ended it at 9 am this morning and got a neat 16-hour fast in the books. Except you forgot to log it in the app and only remembered about it later in the afternoon.
+
+In this case, we're not talking about that much time lost, and what you probably want to do is end your latest fast properly in Simple. This can be done with no trouble at all:
+
+<p align="center"> 1. Use the 'End this Fast' option in the app as you normally would;
+  <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/End+this+.png">
+</p>  
+
+<p align="center"> 2. When logging your fast-ending meal, simply pick the time you actually had the first meal that ended your fast, even if it's been a while (but no more than 3 days). <br/>
+  <img width="100" src="https://dkea7qxfae4ft.cloudfront.net/kb/backintime.jpg">
+</p>  
+
+## 2. In Case You've Missed More than 36 Hours
+If for some reason, you haven't visited the app for more than 36 hours since your last log, then you can simply cancel your current fast without attributing it to your statistics. We'll just forget it ever happened.
+
+To do so, simply use the 'Finish this Fast' option. When prompted by the app, select the 'I didn't do it!' option. This will cancel your current fasting period without affecting your overall stats.
